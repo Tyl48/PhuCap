@@ -1,0 +1,11 @@
+D:\winform\BUS\bin\Debug\BUS.dll
+D:\winform\BUS\bin\Debug\BUS.pdb
+D:\winform\BUS\bin\Debug\DAL.dll
+D:\winform\BUS\bin\Debug\DTO.dll
+D:\winform\BUS\bin\Debug\DAL.pdb
+D:\winform\BUS\bin\Debug\DTO.pdb
+D:\winform\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\winform\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\winform\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\winform\BUS\obj\Debug\BUS.dll
+D:\winform\BUS\obj\Debug\BUS.pdb
